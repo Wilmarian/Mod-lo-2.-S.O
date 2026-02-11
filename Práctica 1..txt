@@ -1,0 +1,34 @@
+Práctica 1. 
+dnf update
+dnf repolist
+dnf --all
+dnf search bashtop
+dnf search bashtop
+clear
+dnf repolist
+dnf repolist --all
+dnf search bashtop
+clear
+date
+dnf upgrade
+d
+nf repolist
+dnf repolist
+dnf repolist --all
+dfn bashtop
+dnf bashtop
+dnf search bashtop
+git clone (https://es.linux-console.net/?p=438#gsc.tab=0
+git clone https://es.linux-console.net/?p=438#gsc.tab=0
+ls
+git clone https://github.com/aristocratos/bashtop.git
+ls
+cd bashtop
+ls
+./bashtop
+cd..
+cd ..
+rm -rf bashtop
+ls
+dnf autoremove -y
+dnf clean all
